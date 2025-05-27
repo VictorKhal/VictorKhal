@@ -27,6 +27,3 @@ I constantly learn and develop, I work confidently in a team, and I am focused o
 🌍 Languages
 - Russian — Native
 - English — B1 (in progress)
-
-I’m currently learning
-js java html  css  sass  git  github  postman 
