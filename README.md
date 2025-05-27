@@ -5,7 +5,7 @@
 |----------------------------------------------------------|
 
 🧑‍💻  About me
-An aspiring QA engineer with an understanding of software testing fundamentals who wants to start a career in QA. 
+QA engineer with an understanding of software testing fundamentals who wants to start a career in QA. 
 Confident in writing test cases, bug reports and working with testing tools. 
 I constantly learn and develop, I work confidently in a team, and I am focused on achieving high results.
 
@@ -14,10 +14,10 @@ I constantly learn and develop, I work confidently in a team, and I am focused o
 - Creating test cases, checklists, and bug reports
 - Tools: Postman, DevTools, Figma
 - Basic SQL and working with REST API
-- Jira, TestRail, Confluence
+- Basic Jira, TestRail, Confluence, Qase, TestIT
 - Java (basic), JavaScript (basic), Selenium (beginner)
 
-📜 Курсы
+📜 Courses
 - IWeb-developer - UDEMY (2024);
 - JavaScript/Front-end - RS School (2025);
 - QA-start - ITVDN (2025);
@@ -29,4 +29,4 @@ I constantly learn and develop, I work confidently in a team, and I am focused o
 - English — B1 (in progress)
 
 I’m currently learning
-js  html  css  sass  git  github  typescript  angular  bootstrap  webpack  postman 
+js java html  css  sass  git  github  postman 
