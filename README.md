@@ -22,8 +22,8 @@ I constantly learn and develop, I work confidently in a team, and I am focused o
 - JavaScript/Front-end - RS School (2025);
 - QA-start - ITVDN (2025);
 - Computer Science on Java - UDEMY (2025);
-- Software Tester - Stepic (in progress)
+- Software Tester - Stepic
 
 🌍 Languages
 - Russian — Native
-- English — B1 (in progress)
+- English — B1
