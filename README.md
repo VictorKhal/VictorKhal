@@ -14,21 +14,21 @@ Focused on delivering high-quality, stable, and scalable test solutions.
 💼 Practical Experience
   
   - UI Test Automation
-  Developed E2E tests with Playwright / Cypress / WebdriverIO
-  Implemented Page Object Model
-  Created scalable test automation structures
-  Automated regression scenarios
+    Developed E2E tests with Playwright / Cypress / WebdriverIO
+    Implemented Page Object Model
+    Created scalable test automation structures
+    Automated regression scenarios
 
   - API Testing
-  Tested REST APIs
-  Validated HTTP responses and JSON structure
-  Data validation and verification
-  Handled positive and negative test scenarios
+    Tested REST APIs
+    Validated HTTP responses and JSON structure
+    Data validation and verification
+    Handled positive and negative test scenarios
   
   - Unit Testing
-  Covered business logic with unit tests
-  Tested asynchronous code (async/await, Promises)
-  Isolated dependencies using mocks and stubs
+    Covered business logic with unit tests
+    Tested asynchronous code (async/await, Promises)
+    Isolated dependencies using mocks and stubs
 
 🧠 Skills
 - Manual Testing: functional, regression, UI
