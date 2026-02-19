@@ -11,6 +11,7 @@ Experienced in REST API testing, SQL, Git, Jira, and test management tools. I ap
 Focused on delivering high-quality, stable, and scalable test solutions.
 
 💼 Practical Experience
+  
   🔹 UI Test Automation
   Developed E2E tests with Playwright / Cypress / WebdriverIO
   Implemented Page Object Model
