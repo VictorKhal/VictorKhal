@@ -5,6 +5,7 @@
 |----------------------------------------------------------|
 
 🧑‍💻  About me
+
 QA Engineer with a technical education and engineering background, specializing in UI and API test automation using JavaScript (Playwright, Cypress, WebdriverIO).
 I develop maintainable automated tests using the Page Object Model, automate regression testing, and integrate tests into CI/CD pipelines.
 Experienced in REST API testing, SQL, Git, Jira, and test management tools. I apply test design techniques to maximize coverage and detect edge cases efficiently.
@@ -12,19 +13,19 @@ Focused on delivering high-quality, stable, and scalable test solutions.
 
 💼 Practical Experience
   
-  🔹 UI Test Automation
+  - UI Test Automation
   Developed E2E tests with Playwright / Cypress / WebdriverIO
   Implemented Page Object Model
   Created scalable test automation structures
   Automated regression scenarios
 
-  🔹 API Testing
+  - API Testing
   Tested REST APIs
   Validated HTTP responses and JSON structure
   Data validation and verification
   Handled positive and negative test scenarios
   
-  🔹 Unit Testing
+  - Unit Testing
   Covered business logic with unit tests
   Tested asynchronous code (async/await, Promises)
   Isolated dependencies using mocks and stubs
