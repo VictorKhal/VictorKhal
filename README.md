@@ -44,5 +44,5 @@ Focused on delivering high-quality, stable, and scalable test solutions.
 
 
 🌍 Languages
-- Russian — Native
-- English — B1
+- Russian - Native
+- English - B1
